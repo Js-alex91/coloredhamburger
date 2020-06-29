@@ -112,7 +112,7 @@ body{
 	}
 
 	.slider li img{
-		width: 600px;
+		width: 100%;
 	}
 
 	.pagination{
